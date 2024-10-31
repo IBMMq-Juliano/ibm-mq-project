@@ -21,9 +21,6 @@ public class IBMMQExample {
     private static final String CONN_NAME_SEFAZ = "localhost(1414)";
     private static final String QUEUE_NAME = "FILA1";
 
-    private static final String QMGR_SERPRO = "QMSERPRO";
-    private static final String CHANNEL_SERPRO = "ADMIN.CHL";
-    private static final String CONN_NAME_SERPRO = "localhost(1515)";
 
     private static final SimpleDateFormat TIMESTAMP_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS");
     private static final Random RANDOM = new Random();
