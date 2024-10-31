@@ -41,6 +41,8 @@ public class IBMMQExample {
                     // Enviar mensagem para o QMSEFAZ
                     putMessage(QMGR_SEFAZ, CHANNEL_SEFAZ, CONN_NAME_SEFAZ, messageText);
 
+                    // Enviar mensagem para o QMSERPRO
+                    putMessage(QMGR_SERPRO, CHANNEL_SERPRO, CONN_NAME_SERPRO, messageText);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
