@@ -1,2 +1,6 @@
+com/exemplo/ibmmq/IBMMQExample$1.class
+com/exemplo/ibmmq/IbmMqService.class
+com/exemplo/ibmmq/IBMMQApplication.class
 com/exemplo/ibmmq/IBMMQExample.class
-com/exemplo/ibmmq/App.class
+com/exemplo/ibmmq/IbmMqController.class
+com/exemplo/ibmmq/IbmMqConfig.class
